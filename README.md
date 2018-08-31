@@ -3,7 +3,7 @@
 ### Slovak wordlist for learning purposes. 2 752 279 words.
 
 ## Info
-* Clone this repository or download only compressed file
+* Clone this repository or download only [compressed file](https://github.com/jtomori/dict_sk/raw/master/dict_sk.lrz)
 * `dict_sk.lrz` (3 MB) is compressed `dict_sk` (34.7 MB)
 * `dict_sk.lrz` was compressed with `lrzip` with **ZPAQ** option:
     ```
